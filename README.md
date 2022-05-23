@@ -12,9 +12,9 @@ colab, python 3.8, window 10 pro
 - numpy
 
 # 제작 과정
+Type of Problem: Multiclass Classification
 
-### Type of Problem: Multiclass Classification
-### Metric for evaluation: Accuracy
+Metric for evaluation: Accuracy
 
 ## Machine Learning Algorithms
 - Logistic Regression
